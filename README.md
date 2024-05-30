@@ -1,28 +1,3 @@
-<p align="center">
-  <a href="https://github.com/CodeStitchOfficial/Advanced-Website-Kit">
-    <img src="https://camo.githubusercontent.com/32198e70924052fbe04426590239b31e4c9c969f66a5fd14f5d4892e3b38ee7f/68747470733a2f2f636f64657374697463682e6170702f66726f6e74656e642f696d616765732f69636f6e2e706e67" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Advanced Starter Kit</h3>
-
-  <p align="center">
-Welcome to the highly anticipated <b>Advanced Starter</b> Kit by <b>CodeStitch</b>. This comprehensive kit is designed to address the needs of small to medium-sized businesses, offering a wide range of features neatly organized in their own dedicated branches. With this kit, you have the flexibility to "build your kit" and tailor your project to each client's specific requirements, utilizing only the features that are essential.<br/>
-    <br/>
-    <a href="https://theadvancedkit.com">View Demo</a>
-    .
-    <a href="https://github.com/CodeStitchOfficial/Advanced-Website-Kit/issues">Report Bug</a>
-    .
-    <a href="https://github.com/CodeStitchOfficial/Advanced-Website-Kit/issues">Request Feature</a>
-  </p>
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/CodeStitchOfficial/Advanced-Website-Kit?color=dark-green" alt="Stars" />
-  <img src="https://img.shields.io/github/contributors/CodeStitchOfficial/Advanced-Website-Kit?color=dark-green" alt="Contributors" />
-  <img src="https://img.shields.io/github/issues/CodeStitchOfficial/Advanced-Website-Kit?color=dark-green" alt="Issues" />
-  <img src="https://img.shields.io/github/license/CodeStitchOfficial/Advanced-Website-Kit" alt="License" />
-</div>
- 
 # Table of Contents
 
 -   [Overview](#overview)
