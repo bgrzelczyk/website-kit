@@ -44,11 +44,11 @@ Given the advanced nature of this kit, coupled with the extensive customizations
 
 Furthermore, experience with **Eleventy** is required, including proficiency in working with and debugging it. Concepts such as the Data Cascade, Plugins, and Collections should be second nature before using this kit.
 
-If you intend to work with the **CMS** and **Shopify** branches, it's highly recommended to have a working knowledge of **Decap** and **Shopify**, respectively. To familiarize yourself with **Decap CMS**, we recommend referring to our [Intermediate Starter Kits](https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS/#overview), which offer a minimal **Decap** configuration.
+If you intend to work with the **CMS** and **Shopify** branches, it's highly recommended to have a working knowledge of **Decap** and **Shopify**, respectively.
 
 While the **Shopify** branch simplifies many tasks, developers are expected to set up, maintain, and debug various aspects that extend beyond this kit's scope due to its headless nature. Functions like search functionality, user accounts, and wishlists cannot be achieved through a simple app installation. If you're unable to fulfill these larger requests, we suggest using this kit primarily for smaller clients.
 
-As this kit operates at a fairly high level, this README has been written with the assumption that you're able to start, develop, deploy, and maintain an eleventy project, from start to finish, without any help. Some smaller details (basic terminal usage and Netlify deployment) have been missed out from the README and are therefore assumed as knowledge. Once again, our [Intermediate Starter Kits](https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS/#overview) provide a good start if you need a little more guidance on these things.
+As this kit operates at a fairly high level, this README has been written with the assumption that you're able to start, develop, deploy, and maintain an eleventy project, from start to finish, without any help. Some smaller details (basic terminal usage and Netlify deployment) have been missed out from the README and are therefore assumed as knowledge.
 
 <a name="getting-started"></a>
 
